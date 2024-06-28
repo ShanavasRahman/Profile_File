@@ -12,7 +12,7 @@ Profile showcasing my extensive knowledge and hands-on experience in web develop
 
 ###
 
-<p align="left">🔭 I have recently completed an ecommerce project, along with multiple React and Redux projects.<br>👯 I’m looking to collaborate on more projects<br>🌱 I specialize as a MERN stack developer, focusing on full stack opportunities with a strong focus on frontend development and improving user experiences.<br> 📫 How to reach me **shanavas11222@gmail.com** </p>
+<p align="left">🔭 I have recently completed an ecommerce project, along with multiple React and Redux projects.<br>👯 I’m looking to collaborate on more projects<br>🌱 I specialize as a MERN stack developer, focusing on full stack opportunities with a strong focus on frontend development and improving user experiences.</p>
 
 ###
 
